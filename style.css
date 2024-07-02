@@ -9,3 +9,13 @@
     text-align: center;
     justify-content: center;
 }
+.second {
+    border: 2.5px solid #88fcab;
+    border-radius: 25px;
+}
+h3 {
+    font-size: 50px;
+}
+ul{
+    font-size: 25px;
+}
