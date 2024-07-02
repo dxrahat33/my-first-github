@@ -1,0 +1,11 @@
+* {
+    background-color: #ff8390;
+    margin: 15px;
+    padding: 0;
+}
+.text {
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+}
